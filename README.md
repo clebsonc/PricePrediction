@@ -8,5 +8,6 @@ I choose to use a jupyter notebook because it's easier to explain my line of tho
 To run the notebook, it's necessary to have numpy, pandas, matplotlib, seaborn, and scikit-learn installed on the machine.
 I have tested the code only on Ubuntu 16.04, with all libraries provided by [Anaconda](https://www.continuum.io/downloads).
 
-
+To open the notebook, just open the terminal located where the project folder is and open the notebook as default:
+> jupyter notebook
 
