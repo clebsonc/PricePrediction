@@ -1,6 +1,6 @@
 # PricePrediction
 
-In this project we perform some data analysis, and build some machine learning models to predict the price of a real-state property.
+In this project we perform some data analysis, and build some machine learning models to predict the price of a real-estate property.
 
 The whole program is in a Jupyter Notebook running Python 3.
 I choose to use a jupyter notebook because it's easier to explain my line of thought and choices that I have made in the process of building the models.
@@ -13,4 +13,6 @@ During the feature engineering step and construction of the machine learning mod
 
 To open the notebook, just open the terminal located where the project folder is and open the notebook as default:
 > jupyter notebook
+
+To better visualize the notebook online, try [Jupyter NBViewer](http://nbviewer.jupyter.org/github/clebsonc/PricePrediction/blob/master/PricePrediction.ipynb).
 
