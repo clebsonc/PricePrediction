@@ -14,5 +14,5 @@ During the feature engineering step and construction of the machine learning mod
 To open the notebook, just open the terminal located where the project folder is and open the notebook as default:
 > jupyter notebook
 
-To better visualize the notebook online, try [Jupyter NVViewer](http://nbviewer.jupyter.org/github/clebsonc/PricePrediction/blob/master/PricePrediction.ipynb).
+To better visualize the notebook online, try [Jupyter NBViewer](http://nbviewer.jupyter.org/github/clebsonc/PricePrediction/blob/master/PricePrediction.ipynb).
 
